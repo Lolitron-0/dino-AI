@@ -2,15 +2,8 @@
 #include "vector"
 #include <SFML/Graphics.hpp>
 
-
-int tileSize = 50, tileOffset = 2, mapSize = 20;
-
-int populationSize = 10,
-choosingInTournament = 30,
+int populationSize = 100,
 crossingoverChance = 90,
-nodeCount = 17,
-inputCount = 9,
-outputCount = 2,
 nextConnectionNo = 1000,
 stalenessThreshold = 15;
 double weightMutationChance = 0.1,
