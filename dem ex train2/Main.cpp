@@ -4,11 +4,10 @@
 #include "vector"
 #include "PLayer.h"
 #include "Obstacle.h"
-#include "Spike.h"
-#include "Coin.h"
+//#include "Spike.h"
+//#include "Coin.h"
 #include "Button.h"
 #include "Globals.h"
-#include "Brain.h"
 #include "Population.h"
 
 using namespace sf;

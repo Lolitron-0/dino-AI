@@ -1,5 +1,5 @@
 ﻿  Main.cpp
-C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Globals.h(34,53): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Globals.h(27,53): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
           with
           [
               T=float
@@ -102,10 +102,10 @@ C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Population.h(198,21): 
 C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Population.h(211,21): warning C4018: <: несоответствие типов со знаком и без знака
 C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Population.h(218,21): warning C4018: <: несоответствие типов со знаком и без знака
 C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Population.h(230,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Main.cpp(41,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Main.cpp(85,47): warning C4244: =: преобразование "sf::Int64" в "double", возможна потеря данных
-C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Main.cpp(112,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Main.cpp(118,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Main.cpp(40,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Main.cpp(84,47): warning C4244: =: преобразование "sf::Int64" в "double", возможна потеря данных
+C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Main.cpp(111,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Main.cpp(117,21): warning C4018: <: несоответствие типов со знаком и без знака
 C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Connection.h(45,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
 C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Connection.h(42): message : во время компиляции функции-члена класс шаблон "void Connection<Node>::mutateWeight(void)"
 C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Brain.h(284): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Connection<Node>::mutateWeight(void)"
