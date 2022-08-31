@@ -131,11 +131,11 @@ int main()
 			maxScoreText.setString("WON IN "+to_string(population.gen)+" GENERATIONS!");
 			window.draw(maxScoreText);
 		}
-		for (map<string,Button>::iterator i=buttons.begin(); i != buttons.end(); i++)
-		{
-			i->second.draw(window);
-			window.draw(i->second.text);
-		}
+		//for (map<string,Button>::iterator i=buttons.begin(); i != buttons.end(); i++)
+		//{
+		//	i->second.draw(window);
+		//	window.draw(i->second.text);
+		//}
 		window.display();
 	}
 	return 0;

@@ -1,4 +1,5 @@
-﻿  Main.cpp
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (dem ex train2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Main.cpp
 C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Globals.h(27,53): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
           with
           [
@@ -118,4 +119,4 @@ C:\Users\ClarVik\source\repos\dem ex train2\dem ex train2\Brain.h(235): message 
               Brain=Brain *,
               Node=Node
           ]
-  dem ex train2.vcxproj -> C:\Users\ClarVik\source\repos\dem ex train2\Debug\dem ex train2.exe
+  dem ex train2.vcxproj -> C:\Users\ClarVik\source\repos\dem ex train2\Debug\dinoAi.exe
