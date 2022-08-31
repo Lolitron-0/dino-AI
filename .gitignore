@@ -1,2 +1,4 @@
 .vs/
-"dem ex train2/Debug/"
+"dem ex train2/Debug"
+x64/
+*.vcxproj*
